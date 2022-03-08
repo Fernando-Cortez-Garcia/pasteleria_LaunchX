@@ -1,0 +1,92 @@
+    img {
+        width: 100px;
+        margin: 0 auto;
+        border-radius: 50%;
+        display: block;
+    }
+    
+    .logo {
+        margin-top: 0;
+        background-color: rgb(203, 108, 230);
+    }
+    
+    .container {
+        text-align: center;
+    }
+    
+    .container table {
+        width: 250px;
+        margin: auto;
+        margin-top: 1em;
+    }
+    
+    .container table th {
+        background-color: rgb(203, 108, 230);
+        color: white;
+        font-size: 20px;
+    }
+    
+    .container table tr {
+        background-color: rgba(220, 217, 217, 0.22);
+    }
+    
+    h2 {
+        font-size: 20px;
+    }
+    
+    .form {
+        width: 300px;
+        margin: auto;
+        margin-top: 4em;
+        color: white;
+        background-color: rgb(203, 108, 230);
+        border: 1px solid rgb(203, 108, 230);
+        border-radius: 15px;
+        margin-bottom: 5em;
+    }
+    
+    .form form {
+        width: 300px;
+        height: 440px;
+    }
+    
+    .form form input {
+        display: block;
+        margin: auto;
+        margin-bottom: 1em;
+    }
+    
+    .form form label {
+        font-size: 20px;
+    }
+    
+    .form form textarea {
+        width: 220px;
+        height: 70px;
+        margin-bottom: 2em;
+    }
+    
+    .form form select {
+        margin-bottom: 1em;
+    }
+    
+    .btnenviar {
+        cursor: pointer;
+        margin-top: 2em;
+        color: wheat;
+        font-size: 18px;
+        background-color: rgba(197, 139, 213, 0.439);
+    }
+    
+    .btnenviar:hover {
+        background-color: rgba(182, 109, 202, 0.885);
+    }
+    
+    footer {
+        margin: 0;
+        color: white;
+        width: 100%;
+        background-color: rgb(203, 108, 230);
+    }
+    
+    footer .direccion {}
